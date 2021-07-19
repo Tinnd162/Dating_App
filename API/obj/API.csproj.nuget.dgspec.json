@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Tinnd\\Train\\DatingApp\\API\\API.csproj": {}
+    "C:\\Tinnd\\Train\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Tinnd\\Train\\DatingApp\\API\\API.csproj": {
+    "C:\\Tinnd\\Train\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Tinnd\\Train\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Tinnd\\Train\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Tinnd\\Train\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Tinnd\\Train\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Tinnd\\.nuget\\packages\\",
-        "outputPath": "c:\\Tinnd\\Train\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Tinnd\\Train\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tinnd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +40,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.8, )"
