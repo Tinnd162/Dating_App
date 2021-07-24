@@ -62,3 +62,6 @@ C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dl
 C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
