@@ -1,5 +1,4 @@
 C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\appsettings.Development.json
-C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\appsettings.json
 C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\API.exe
 C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\API.deps.json
 C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.json
