@@ -65,3 +65,5 @@ C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.
 C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
 C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Tinnd\Train\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
